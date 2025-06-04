@@ -10,7 +10,7 @@ session = cnx.session()
 # Write directly to the app
 st.title(f":cup_with_straw: Customize Your Smoothie :cup_with_straw:")
 st.write(
-  """Choose the fruits you want in your Smoothie!
+  """Choose the fruits you want in your Smoothie! You fat fuck!
   """
 )
 
